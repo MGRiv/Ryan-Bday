@@ -43,7 +43,7 @@ var update = function update(e){
     spawnCircle();
     time++;
     console.log(time);
-    if(time >= 400){
+    if(time >= 200){
 	clearInterval(i);
 	background3();
     }
