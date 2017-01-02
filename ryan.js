@@ -52,7 +52,7 @@ var update = function update(e){
 var background3 = function background3(e){
     canvas.style.visibility = "hidden";
     banner.textContent = "Happy Birthday Ryan!!";
-    document.getElementById("im").src = "PLS-DO-NOT-LOOK-IN-HERE/meme.png";
+    document.getElementById("im").src = "meme.png";
 }
 
 var background2 = function background2(e){
